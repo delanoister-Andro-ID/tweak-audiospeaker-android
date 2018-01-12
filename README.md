@@ -13,3 +13,5 @@ But, when enable and switch one else directly, it'll turn out distort. So, we ne
 or you can use TortoiseSVN to apply patch. See more about it at [here](https://tortoisesvn.net/docs/nightly/TortoiseMerge_en/tmerge-basics-patch.html)
 5. Zip META-INF and system folder
 6. Flash via custom recovery
+
+Steemit @dissgo
